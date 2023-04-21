@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrax14&label=Profile%20views&color=0e75b6&style=flat" alt="rudrax14" /> </p>
 
-- 💬 Ask me about **Front End Developer**
+- 💬 Ask me about for **Front End Developer**
 
 - 📫 How to reach me **m.rudra2003@gmail.com**
 
-- ⚡ Fun fact **I am Nice**
+<!-- - ⚡ Fun fact **I am Nice** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
