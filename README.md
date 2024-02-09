@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack Developer<br>💬 Ask me about JavaScript , Python , C++ , Front-End Dev ,BackEnd <br>⚡ Fun fact Nice
+🔭 I’m a Full-stack Developer<br>💬 Ask me about JavaScript , Python , C++ , Front-End Dev ,BackEnd <br>⚡ Fun fact Nice
 
 
 ## 🌐 Socials:
